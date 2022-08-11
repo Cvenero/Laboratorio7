@@ -10,7 +10,7 @@ public class BNodeGeneric<T> {
 	int num; // Number of keys of node
     boolean isLeaf; // True when leaf node
    
-    
+    //esto es comentario
     
 	
  // Constructor
